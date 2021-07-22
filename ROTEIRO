@@ -1,0 +1,22 @@
+Passos para realizar a Atividade:
+
+SETOR ALIMENTÍCIO - ANÁLISAR OS DADOS OBTIDOS DOS BAIRROS DO RJ
+
+1º PASSO
+Importar a tabela execel.csv 
+	relacionar o dados da tabela com as váriaveis (DICIONÁRIO DE DADOS)
+
+2º PASSO
+Gerar algum tipo de gráfico
+	- análisar os dados de forma exploratória
+	- retirar alguns insights sobre os dados que foram análisados 
+	
+
+3º PASSO
+Criar um modelo de regressão capaz de PREVER o FATURAMENTO em novos bairros, 
+CASO o nosso CLIENTE queira realizar um PROJETO DE EXPANSÃO.
+
+
+
+
+
